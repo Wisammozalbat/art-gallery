@@ -11,12 +11,18 @@
   font-size: 1.6rem;
 }
 
+.footer-logo {
+  font-family: "Century Schoolbook", sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+}
+
 .footer-links {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   width: 100%;
-  margin: auto 0;
+  margin: 2rem 0 auto 0;
 }
 
 .footer-link {

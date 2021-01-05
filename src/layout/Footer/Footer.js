@@ -8,7 +8,7 @@ import {FaTwitterSquare} from 'react-icons/fa'
 const Footer = () => {
     return (
         <div className="footer-container">
-            <div className="footer-logo">Logo</div>
+            <div className="footer-logo">TrendArt</div>
             <div className="footer-links">
                 <div className="footer-link">About us</div>
                 <div className="footer-link">Contact</div>

@@ -45,12 +45,12 @@ const Header = () => {
         setDirection('slide-right');
     }
 
-    // useEffect(() => {
-    //     const interval = setInterval(() => {
-    //        nextSlide();
-    //     }, 4000);
-    //     return () => clearInterval(interval);
-    //   }, [nextSlide]);
+    useEffect(() => {
+        const interval = setInterval(() => {
+           nextSlide();
+        }, 4000);
+        return () => clearInterval(interval);
+      }, [nextSlide]);
 
 
     return (
