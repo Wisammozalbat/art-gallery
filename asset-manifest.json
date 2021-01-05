@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/art-gallery/static/css/main.7df43553.chunk.css",
+    "main.js": "/art-gallery/static/js/main.43865884.chunk.js",
+    "main.js.map": "/art-gallery/static/js/main.43865884.chunk.js.map",
+    "runtime-main.js": "/art-gallery/static/js/runtime-main.d5b19c88.js",
+    "runtime-main.js.map": "/art-gallery/static/js/runtime-main.d5b19c88.js.map",
+    "static/js/2.299c7df0.chunk.js": "/art-gallery/static/js/2.299c7df0.chunk.js",
+    "static/js/2.299c7df0.chunk.js.map": "/art-gallery/static/js/2.299c7df0.chunk.js.map",
+    "index.html": "/art-gallery/index.html",
+    "static/css/main.7df43553.chunk.css.map": "/art-gallery/static/css/main.7df43553.chunk.css.map",
+    "static/js/2.299c7df0.chunk.js.LICENSE.txt": "/art-gallery/static/js/2.299c7df0.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/art-gallery/static/media/Aerotis.d1ee6a1f.otf",
+    "static/media/image-1.e3e405e1.jpg": "/art-gallery/static/media/image-1.e3e405e1.jpg",
+    "static/media/image-10.0c83677d.jpg": "/art-gallery/static/media/image-10.0c83677d.jpg",
+    "static/media/image-11.9199dbe9.jpg": "/art-gallery/static/media/image-11.9199dbe9.jpg",
+    "static/media/image-12.5b029045.jpg": "/art-gallery/static/media/image-12.5b029045.jpg",
+    "static/media/image-2.2f8f604b.jpg": "/art-gallery/static/media/image-2.2f8f604b.jpg",
+    "static/media/image-3.36de882a.jpg": "/art-gallery/static/media/image-3.36de882a.jpg",
+    "static/media/image-4.e3e9881f.jpg": "/art-gallery/static/media/image-4.e3e9881f.jpg",
+    "static/media/image-5.8198aa0d.jpg": "/art-gallery/static/media/image-5.8198aa0d.jpg",
+    "static/media/image-6.2cf0ed9d.jpg": "/art-gallery/static/media/image-6.2cf0ed9d.jpg",
+    "static/media/image-7.598603d2.jpg": "/art-gallery/static/media/image-7.598603d2.jpg",
+    "static/media/image-8.2697a516.jpg": "/art-gallery/static/media/image-8.2697a516.jpg",
+    "static/media/image-9.453562f2.jpg": "/art-gallery/static/media/image-9.453562f2.jpg",
+    "static/media/slider-1.0.a5b0ec53.jpg": "/art-gallery/static/media/slider-1.0.a5b0ec53.jpg",
+    "static/media/slider-2.c5f28ef2.jpg": "/art-gallery/static/media/slider-2.c5f28ef2.jpg",
+    "static/media/slider-3.eaab9150.jpg": "/art-gallery/static/media/slider-3.eaab9150.jpg",
+    "static/media/slider-4.0.e4ef02b8.jpg": "/art-gallery/static/media/slider-4.0.e4ef02b8.jpg",
+    "static/media/slider-5.0.02d5ef85.jpg": "/art-gallery/static/media/slider-5.0.02d5ef85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b19c88.js",
+    "static/js/2.299c7df0.chunk.js",
+    "static/css/main.7df43553.chunk.css",
+    "static/js/main.43865884.chunk.js"
+  ]
+}
