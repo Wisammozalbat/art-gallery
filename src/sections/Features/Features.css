@@ -1,0 +1,17 @@
+.features-container {
+  background-color: rgba(224, 224, 224, 0.705);
+  padding: 5rem 15rem 5rem 15rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-auto-rows: max-content;
+  grid-column-gap: 2rem;
+}
+
+.feature-item {
+  color: white;
+  font-size: 2rem;
+  padding: 2rem;
+  background-color: rgba(83, 83, 83, 0.63);
+  border-radius: 5px;
+}
